@@ -1,5 +1,3 @@
-理解你的问题: doing
-收集相关的信息: doing
 # SpringBoot2 适配 TongWeb7 示例项目
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-green.svg)](https://spring.io/projects/spring-boot)
